@@ -1,0 +1,23 @@
+{
+  "name": "frontend-nanodegree-arcade-game-master",
+  "version": "1.0.0",
+  "description": "frontend-nanodegree-arcade-game ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satve/projectArcadeGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satve/projectArcadeGame/issues"
+  },
+  "homepage": "https://github.com/satve/projectArcadeGame#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0"
+  }
+}
